@@ -10,7 +10,7 @@ footer {
   right: 0px;;
   height: 300px;
   width: 100%;
-  background-image: url("/imagens/ondas2.png");
+  background-image: url("/html/imagens/ondas2.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
 }
@@ -21,7 +21,7 @@ footer {
   right: 0px;;
   
   width: 100%;
-  background-image: url("/imagens/nav_bar_image.png");
+  background-image: url("/html/imagens/nav_bar_image.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
 

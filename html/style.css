@@ -10,7 +10,7 @@ footer {
   right: 0px;;
   height: 300px;
   width: 100%;
-  background-image: url("/html/imagens/ondas2.png");
+  background-image: url("./imagens/ondas2.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
 }
@@ -21,12 +21,22 @@ footer {
   right: 0px;;
   
   width: 100%;
-  background-image: url("/html/imagens/nav_bar_image.png");
+  background-image: url("./imagens/nav_bar_image.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
 
 }
-
+#linkDev{
+  text-align: center;
+  margin: 5px;
+  padding: 0px;
+  position: relative;
+  top: 0px;
+  font-size: 15px;
+}
+a{
+  text-decoration: none;
+}
 .logo h2 {
   font-size: 18px;
   color: black;
